@@ -10,7 +10,7 @@ class Circle {
     double area;
 
  public:
-    Circle(double radius);
+    explicit Circle(double radius);
 
     void setRadius(double radius);
 

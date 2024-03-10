@@ -5,7 +5,7 @@
 #include <utility>
 
 double ropeAroundPlanetTask(
-    double planetRadius, 
+    double planetRadius,
     double radiusIncrement
 );
 
